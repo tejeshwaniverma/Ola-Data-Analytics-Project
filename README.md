@@ -4,4 +4,5 @@ OLA Data Analytics Project using SQL and Power BI. This project analyzes ride bo
 ![image alt](https://github.com/tejeshwaniverma/Ola-Data-Analytics-Project/blob/63459c1327c60f502247cd8266721225c717a304/Screenshot%202026-08-18%20192357.png)
 ![image alt](https://github.com/tejeshwaniverma/Ola-Data-Analytics-Project/blob/755a60a5b86ad448c7d91f6c4e66e4c014650cd5/Screenshot%202026-08-18%20192417.png)
 ![image alt](https://github.com/tejeshwaniverma/Ola-Data-Analytics-Project/blob/24ab38eeaa3d87bd5e77f17f0bbd0ae85cea7ad8/Screenshot%202026-08-18%20192448.png)
+![image alt](https://github.com/tejeshwaniverma/Ola-Data-Analytics-Project/blob/efd6beb5596732ef9007ae3e9f52b0446ffeef79/Screenshot%202026-08-18%20192503.png)
 
